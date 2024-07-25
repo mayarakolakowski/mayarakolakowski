@@ -1,4 +1,4 @@
-## bem vindos oa meu perfil 😸
+## bem vindos ao meu perfil 😸
 
 Meu nome è Mayara Kolakowski Soares
 - estou estudando na alura
