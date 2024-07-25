@@ -10,5 +10,4 @@ Meu nome è Mayara Kolakowski Soares
 kolakowski.soares@escola.pr.gov.br
 
 
-![]()
-https://media1.tenor.com/m/f911hugXZHAAAAAC/scrunchy-dog-awkward-smile.gif
+![](https://media1.tenor.com/m/f911hugXZHAAAAAC/scrunchy-dog-awkward-smile.gif)
