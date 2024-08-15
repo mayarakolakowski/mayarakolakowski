@@ -5,7 +5,7 @@ Meu nome è Mayara Kolakowski Soares
 - estou me deenvolvendo na linguagem JavaScript
 - utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
-## Você podeentrar em contato comigo 📫
+## Você pode entrar em contato comigo 📫
 
 kolakowski.soares@escola.pr.gov.br
 
